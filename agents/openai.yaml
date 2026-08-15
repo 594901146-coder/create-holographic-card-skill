@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Holographic Card"
+  short_description: "Build flagship layered holographic cards"
+  default_prompt: "Use $create-holographic-card to turn my image into one full-bleed layered card with vivid flagship holographic optics."
